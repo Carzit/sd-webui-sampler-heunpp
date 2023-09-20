@@ -1,4 +1,4 @@
-# sd-webui-sampler-heunpp
+# sd webui sampler Heun++
 ## Introduce
 Use higher order Runge-Kutta method in the sampler 
 
@@ -9,7 +9,7 @@ Use higher order Runge-Kutta method in the sampler
 
 ## Samplers
 - Heun++test0 is just more prediction steps than Heun 
-- Heun++test1 and Heun++test2 further explore the balance between heun and euler
+- Heun++test1 and Heun++test2(recommended) further explore the balance between heun and euler
 
 ## Example
 ![](https://github.com/Carzit/sd-webui-sampler-heunpp/blob/main/images/example.png)
