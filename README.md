@@ -13,3 +13,8 @@ Use higher order Runge-Kutta method in the sampler
 
 ## Example
 ![](https://github.com/Carzit/sd-webui-sampler-heunpp/blob/main/images/example.png)
+
+## More
+I'm developing a sampler scheduler which can apply different sampler in diffrent generation steps,
+
+which I hope will be benefit to achieve a balance between generation speed and image quality😉
