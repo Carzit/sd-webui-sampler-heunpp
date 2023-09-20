@@ -1,7 +1,8 @@
 # sd-webui-sampler-heunpp
 Use higher order Runge-Kutta method in the sampler 
 
-A simple change - more time for higher quality 
+- more time for higher quality
+- decreasing weight to avoid noises like heun
 
 10 - 20 steps are enough in most cases; almost no differences with euler and heun when steps more than 40
 
