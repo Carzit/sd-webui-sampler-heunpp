@@ -18,3 +18,5 @@ Use higher order Runge-Kutta method in the sampler
 I'm developing a sampler scheduler which can apply different sampler in diffrent generation steps,
 
 which I hope will be benefit to achieve a balance between generation speed and image quality😉
+
+You can access this project at https://github.com/Carzit/sd-webui-samplers-scheduler
